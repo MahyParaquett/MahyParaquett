@@ -8,5 +8,5 @@ Estudante de programação full stack | Bacharel em Administração
 </div>
 
 ### Let´s get connected:
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/debora-o-souza/](https://www.linkedin.com/in/mahyara-paraquett/))
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyara-paraquett/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1691693259)
