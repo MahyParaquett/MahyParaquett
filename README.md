@@ -4,7 +4,8 @@
 Estudante de programação full stack | Bacharel em Administração
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahyParaquett&show_icons=true&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahyParaquett&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahyParaquett&layout=compact&theme=radical"/>
 </div>
 
 ### Let´s get connected:
