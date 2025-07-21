@@ -1,7 +1,7 @@
 ### Bem-vindo(a) ao meu GitHub!
 ## Eu sou a Mahyara Paraquett
 
-Estudante de programação full stack | Pós Graduada em Engenharia de Software | Bacharel em Administração
+Desenvolvedora full stack | Pós Graduada em Engenharia de Software | Bacharel em Administração | Eterna Estudante 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahyParaquett&show_icons=true&theme=radical"/>
